@@ -1,6 +1,7 @@
 # yachtGame
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/littlerainbow0/yachtGame)
 
+> **A Retro Terminal Dice Game Powered by COBOL**
 ```text
 ___  _ ____  ____ _     _____    _____ ____  _      _____
 \  \///  _ \/   _Y \ /|/__ __\  /  __//  _ \/ \__/|/  __/
