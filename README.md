@@ -1,10 +1,6 @@
 # yachtGame
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/littlerainbow0/yachtGame)
- -------     -------
- / o   o /   / o     /
-/   o   /   /  o  o /
-/ o   o /   /     o /
--------     -------
+
 ```text
   -------     ------- ___  _ ____  ____ _     _____    _____ ____  _      _____
  / o   o /   / o    / \  \///  _ \/   _Y \ /|/__ __\  /  __//  _ \/ \__/|/  __/
