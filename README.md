@@ -1,4 +1,7 @@
 # yachtGame
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/littlerainbow0/yachtGame)
+
 專案介紹：
     利用這半年學習的cobol知識去做美國常玩的一種骰子遊戲專案，專案風格呈現極致極簡極客風
 製作流程：
@@ -8,7 +11,10 @@
      ｜
     建立yacht.cbl，cobc -x yacht.cbl一次 ./yacht，運行成功。
      ｜
-     
+    現在有兩條路 一條是後端邏輯完善 一條是研究前端如何在gitHub上呈現。
+     ｜
+    在ReadMe放按鈕讓使用者可以開啟『網頁版終端機模擬器』  
+
 
 
 

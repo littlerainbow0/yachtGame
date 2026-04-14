@@ -1,0 +1,21 @@
+{
+    "name": "COBOL Development Environment",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+    
+    // 當容器啟動後，自動執行安裝指令
+    "postCreateCommand": "sudo apt-get update && sudo apt-get install -y gnucobol",
+
+    // 自動為使用者安裝推薦的 VS Code 插件
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "bitlang.cobol"
+            ]
+        }
+    },
+
+    // 設定預設開啟的終端機
+    "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash"
+    }
+}
