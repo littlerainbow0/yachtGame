@@ -1,4 +1,5 @@
 # yachtGame
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/littlerainbow0/yachtGame)
 
 ```text
  ___  _ ____  ____ _      _____     _____ ____  _      _____
@@ -8,7 +9,7 @@
 /_/   \_/ \|\____|_/ \|  \_/     \____\\_/ \|\_/  \|\____\
                                                          
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/littlerainbow0/yachtGame)
+
 
 專案介紹：
     利用這半年學習的cobol知識去做美國常玩的一種骰子遊戲專案，專案風格呈現極致極簡極客風
